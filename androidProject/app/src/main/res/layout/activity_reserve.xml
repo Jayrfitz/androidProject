@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dip"
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="2dip">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Departure"
+                />
+            <RadioButton android:id="@+id/LADeparture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Los Angeles"
+                android:onClick="onRadioButtonClicked"/>
+            <RadioButton android:id="@+id/mDeparture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Monterey"
+                android:onClick="onRadioButtonClicked"/>
+            <RadioButton android:id="@+id/sDeparture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Seattle"
+                android:onClick="onRadioButtonClicked"/>
+        </RadioGroup>
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="2dip">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Arrival"
+                />
+            <RadioButton android:id="@+id/LAArrial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Los Angeles"
+                android:onClick="onRadioButtonClicked"/>
+            <RadioButton android:id="@+id/mArrival"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Monterey"
+                android:onClick="onRadioButtonClicked"/>
+            <RadioButton android:id="@+id/sArrival"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Seattle"
+                android:onClick="onRadioButtonClicked"/>
+        </RadioGroup>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="2dip"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Seats"
+                />
+
+            <EditText
+                android:id="@+id/etSeats"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="number" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/bSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Flights"
+        />
+
+    <LinearLayout
+        android:id="@+id/flights_display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etFlightNum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Flight Number"
+        android:inputType="textWebEmailAddress"/>
+
+    <Button
+        android:id="@+id/bReserve"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="login to Reserve"/>
+    <Button
+        android:id="@+id/bBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back"/>
+
+</LinearLayout>

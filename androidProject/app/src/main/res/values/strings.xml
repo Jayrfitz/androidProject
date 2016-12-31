@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AirplaneReserationSystem</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create">Create</string>
+    <string name="title_activity_reserve">Reserve</string>
+    <string name="title_activity_cancel">Cancel</string>
+    <string name="title_activity_manage">Manage</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_loginadmin">Login Admin</string>
+    <string name="title_activity_flightconfirm">Flight Confirm</string>
+    <string name="title_activity_logincancel">Login Cancel</string>
+
+</resources>

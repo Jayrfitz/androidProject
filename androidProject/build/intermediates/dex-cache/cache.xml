@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="37eef8409f9afb41dbfdd1807302ed2f36f578cf">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63628ca648e0a5576159e863e8a7497a9062d542/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_df4cea762b860dc63b8220eed66014d9897ad1cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_9c6d26d4c2ed54429931b80b65c4742823d0a251/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_2d9e7909ab7d8a32eeb1968b14fd9fe368719adb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_8e65d540bbf95b0c581cce7879f89f1e59b962e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_7c3dd23dca3debaa859581eb743ec0fca6409431/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_a872c9fec309bb3a37c6f9e92fe24ecbf3f1556d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_28ff329b0932ef718117079da34e91e3f649b775/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_a6e7ced349c160bbe7879a23997ff4f3d510f339/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85c7acb0dde63fcf86dbfaad3b98a8e375d71a89">
+        <dex dex="/Users/jasonfitzgerald/Documents/csumb/ Spring 2016/ java338/Fitzgerald_Final_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6936a3d9eb949eb0e7578e49a19e213deeb0a8ac/classes.dex" />
+    </item>
+
+</items>
